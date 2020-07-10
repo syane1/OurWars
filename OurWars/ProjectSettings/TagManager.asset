@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - proBackground
+  - proForeground
+  - aerBackground
+  - aerForeground
+  - proClimbing
+  - aerClimbing
+  - proHazard
+  - aerHazard
+  - proInteractable
+  - aerInteractable
+  - Enemy
+  - PlayerProjectile
+  - EnemyProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: proBackground
+    uniqueID: 3587228675
+    locked: 0
+  - name: aerBackground
+    uniqueID: 1619241009
+    locked: 0
+  - name: proClimbing
+    uniqueID: 2617640179
+    locked: 0
+  - name: aerClimbing
+    uniqueID: 662983971
+    locked: 0
+  - name: proHazard
+    uniqueID: 1271150481
+    locked: 0
+  - name: aerHazard
+    uniqueID: 2791120917
+    locked: 0
+  - name: Enemy
+    uniqueID: 997577621
+    locked: 0
+  - name: Player
+    uniqueID: 3795652881
+    locked: 0
+  - name: Projectile
+    uniqueID: 2835213803
+    locked: 0
+  - name: proForeground
+    uniqueID: 249768141
+    locked: 0
+  - name: aerForeground
+    uniqueID: 3081996087
+    locked: 0
+  - name: UI
+    uniqueID: 1609667691
+    locked: 0
